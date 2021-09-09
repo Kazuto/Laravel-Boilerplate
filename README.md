@@ -10,5 +10,7 @@
 ## About This Boilerplate
 
 This boilerplate is based on Laravel 8.60 and contains some additional packages as well as configurations:
-- [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper)
-- [friendsofphp/php-cs-fixer](https://github.com/FriendsOfPhp/PHP-CS-Fixer)
+- [Laravel IDE-Helper](https://github.com/barryvdh/laravel-ide-helper)
+- [PHP Coding Standards Fixer](https://github.com/FriendsOfPhp/PHP-CS-Fixer)
+- [Telescope](https://laravel.com/docs/8.x/telescope)
+- [Laravel Telescope Toolbar](https://github.com/fruitcake/laravel-telescope-toolbar)
