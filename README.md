@@ -15,3 +15,4 @@ This boilerplate is based on Laravel 8.60 and contains some additional packages 
 - [Telescope](https://laravel.com/docs/8.x/telescope)
 - [Laravel Telescope Toolbar](https://github.com/fruitcake/laravel-telescope-toolbar)
 - [Horizon](https://laravel.com/docs/8.x/horizon)
+- [Laravel Query Detector](https://github.com/beyondcode/laravel-query-detector)
