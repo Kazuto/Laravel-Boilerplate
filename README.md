@@ -14,3 +14,4 @@ This boilerplate is based on Laravel 8.60 and contains some additional packages 
 - [PHP Coding Standards Fixer](https://github.com/FriendsOfPhp/PHP-CS-Fixer)
 - [Telescope](https://laravel.com/docs/8.x/telescope)
 - [Laravel Telescope Toolbar](https://github.com/fruitcake/laravel-telescope-toolbar)
+- [Horizon](https://laravel.com/docs/8.x/horizon)
