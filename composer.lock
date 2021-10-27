@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cb62614ae1644e1ed2fe9f2d3eb71dce",
+    "content-hash": "2aec64fc84e904a1521265ed0030f194",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -7431,6 +7431,47 @@
                 "source": "https://github.com/justinrainbow/json-schema/tree/5.2.11"
             },
             "time": "2021-07-22T09:24:00+00:00"
+        },
+        {
+            "name": "kazuto/php-cs-preset",
+            "version": "1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Kazuto/php-cs-preset.git",
+                "reference": "b08b18c210baa39b11d507c9bb0c074ff170a82a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Kazuto/php-cs-preset/zipball/b08b18c210baa39b11d507c9bb0c074ff170a82a",
+                "reference": "b08b18c210baa39b11d507c9bb0c074ff170a82a",
+                "shasum": ""
+            },
+            "require": {
+                "friendsofphp/php-cs-fixer": "^3.2",
+                "php": "8.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Kazuto\\PhpCsPreset\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kazuto",
+                    "email": "mail@kazuto.de"
+                }
+            ],
+            "description": "PHP Coding Standards Fixer Preset",
+            "support": {
+                "issues": "https://github.com/Kazuto/php-cs-preset/issues",
+                "source": "https://github.com/Kazuto/php-cs-preset/tree/1.0.1"
+            },
+            "time": "2021-10-23T08:54:32+00:00"
         },
         {
             "name": "laravel/sail",

@@ -21,6 +21,7 @@
         "fakerphp/faker": "^1.9.1",
         "friendsofphp/php-cs-fixer": "^3.1",
         "fruitcake/laravel-telescope-toolbar": "^1.3",
+        "kazuto/php-cs-preset": "^1.0",
         "laravel/sail": "^1.0.1",
         "mockery/mockery": "^1.4.2",
         "nunomaduro/collision": "^5.0",
